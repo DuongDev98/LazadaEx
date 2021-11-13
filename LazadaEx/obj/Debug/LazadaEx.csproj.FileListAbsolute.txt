@@ -1,0 +1,11 @@
+C:\Users\D-Computer\Desktop\LazadaEx\LazadaEx\obj\Debug\LazadaEx.csproj.AssemblyReference.cache
+C:\Users\D-Computer\Desktop\LazadaEx\LazadaEx\obj\Debug\LazadaEx.csproj.CoreCompileInputs.cache
+C:\Users\D-Computer\Desktop\LazadaEx\LazadaEx\bin\Debug\LazadaEx.exe.config
+C:\Users\D-Computer\Desktop\LazadaEx\LazadaEx\bin\Debug\LazadaEx.exe
+C:\Users\D-Computer\Desktop\LazadaEx\LazadaEx\bin\Debug\LazadaEx.pdb
+C:\Users\D-Computer\Desktop\LazadaEx\LazadaEx\bin\Debug\LazopSdk.dll
+C:\Users\D-Computer\Desktop\LazadaEx\LazadaEx\bin\Debug\Newtonsoft.Json.dll
+C:\Users\D-Computer\Desktop\LazadaEx\LazadaEx\bin\Debug\Newtonsoft.Json.xml
+C:\Users\D-Computer\Desktop\LazadaEx\LazadaEx\obj\Debug\LazadaEx.csproj.CopyComplete
+C:\Users\D-Computer\Desktop\LazadaEx\LazadaEx\obj\Debug\LazadaEx.exe
+C:\Users\D-Computer\Desktop\LazadaEx\LazadaEx\obj\Debug\LazadaEx.pdb
